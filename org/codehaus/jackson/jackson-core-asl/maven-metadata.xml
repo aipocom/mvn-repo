@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.codehaus.jackson</groupId>
+  <artifactId>jackson-core-asl</artifactId>
+  <version>1.3.5</version>
+  <versioning>
+    <versions>
+      <version>1.3.5</version>
+    </versions>
+    <lastUpdated>20121001202310</lastUpdated>
+  </versioning>
+</metadata>
