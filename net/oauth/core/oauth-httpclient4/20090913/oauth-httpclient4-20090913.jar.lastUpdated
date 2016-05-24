@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 04 16:25:04 JST 2016
+http\://maven.seasar.org/maven2/.error=
+http\://google-caja.googlecode.com/svn/maven/.error=
+http\://google-caja.googlecode.com/svn/maven/.lastUpdated=1454566474236
+http\://maven.seasar.org/maven2/.lastUpdated=1459754527255
+http\://google-diff-match-patch.googlecode.com/svn/trunk/maven/.error=
+http\://caucho.com/m2/.error=
+https\://raw.githubusercontent.com/aipocom/mvn-repo/master/.lastUpdated=1459754527456
+http\://google-diff-match-patch.googlecode.com/svn/trunk/maven/.lastUpdated=1454566470993
+https\://repo.maven.apache.org/maven2/.lastUpdated=1459754527570
+https\://repo.maven.apache.org/maven2/.error=
+https\://raw.githubusercontent.com/aipocom/mvn-repo/master/.error=
+http\://oauth.googlecode.com/svn/code/maven/.lastUpdated=1454566475264
+http\://caucho.com/m2/.lastUpdated=1459754704788

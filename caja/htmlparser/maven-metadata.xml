@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>caja</groupId>
+  <artifactId>htmlparser</artifactId>
+  <versioning>
+    <latest>r4209</latest>
+    <release>r4209</release>
+    <versions>
+      <version>r4209</version>
+    </versions>
+    <lastUpdated>20150120103613</lastUpdated>
+  </versioning>
+</metadata>
