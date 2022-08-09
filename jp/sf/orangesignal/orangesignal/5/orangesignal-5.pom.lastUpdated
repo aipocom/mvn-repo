@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jan 23 13:15:05 JST 2019
+https\://raw.githubusercontent.com/aipocom/mvn-repo/master/.error=
+http\://maven.seasar.org/maven2/.error=
+http\://maven.seasar.org/maven2/.lastUpdated=1548216905171
+https\://raw.githubusercontent.com/aipocom/mvn-repo/master/.lastUpdated=1548216905654
+http\://orangesignal.sourceforge.jp/maven2/.lastUpdated=1548216905953
