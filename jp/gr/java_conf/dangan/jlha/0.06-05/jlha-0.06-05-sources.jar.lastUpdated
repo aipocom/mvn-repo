@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 01 17:36:51 JST 2019
+http\://maven.seasar.org/maven2/.error=
+http\://maven.seasar.org/maven2/.lastUpdated=1549010210234
+http\://orangesignal.sourceforge.jp/maven2/.lastUpdated=1549010210526
+https\://raw.githubusercontent.com/aipocom/mvn-repo/master/.lastUpdated=1549010210462
+https\://repo.maven.apache.org/maven2/.lastUpdated=1549010211368
+https\://repo.maven.apache.org/maven2/.error=
+http\://jcenter.bintray.com/.error=
+https\://raw.githubusercontent.com/aipocom/mvn-repo/master/.error=
+http\://jcenter.bintray.com/.lastUpdated=1549010211059
+http\://orangesignal.sourceforge.jp/maven2/.error=
